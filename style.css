@@ -1,0 +1,32 @@
+.color-of-nav{
+    background-color:  #161748 ;
+}
+.color-of-navs{
+    background-color:  #651e3e ;
+}
+#color-of-brand{
+    color: #fff;
+    font-size: 1.8rem;
+
+
+    padding: 2px;
+    margin-left:20px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.color-of-elements{
+    color:#fff;
+}
+.about-style{
+    background-color: teal;
+    width:100%;
+    text-align: center;
+    font-size: 3.5rem;
+    font-family: 'Ubuntu', sans-serif;
+    padding :50px 70px 50px;
+    columns: #000000;
+}
+
+#small-span{
+    font-family: 'Recursive', sans-serif;
+    margin-top: 10px;
+}
